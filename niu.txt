@@ -1,13 +1,12 @@
-{ "urls": [{ "url": "http://py.nxog.top/?ou=http://www.饭太硬.com/tv/", "name": "饭太硬" },
+{ "urls": [{ "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
 
-{ "url": "http://py.nxog.top/?ou=http://ok321.top/ok", "name": "OK" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
 
-{ "url": "http://肥猫.com", "name": "肥猫" },
+{ "url": "http://肥猫.net/tv", "name": "肥猫" },
 
-{ "url": "http://我不是.摸鱼儿.com", "name": "摸鱼儿" },
+{ "url": "http://www.小不点.com", "name": "摸鱼儿" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "潇洒" },
-
+{ "url": "https://9877.kstore.space/ONE/one.json", "name": "潇洒" },
 { "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" },
 { "url": "http://ttkx.live:55/天天开心", "name": "天天开心" },
 { "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风" },
